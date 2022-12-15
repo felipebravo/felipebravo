@@ -7,7 +7,7 @@
 ## Bem vindo(a) ao meu GitHub 👋
 
 <div align="left">
-    <a href="https://github.com/GuilhermeSchulz">
+    <a href="https://github.com/felipebravo">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipebravo&theme=tokyonight"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebravo&theme=tokyonight&hide_border=false&&layout=compact"/>
     </a>
