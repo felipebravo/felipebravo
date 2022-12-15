@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feebravo/)
 
+⚔️ Codewars Kyu 6: <a href="https://www.codewars.com/users/felipebravo" target="_blank"> <img align="center" src="https://www.codewars.com/users/felipebravo/badges/small"> </a>
+
 ## Bem vindo(a) ao meu GitHub 👋
 
 ![Felipe Bravo GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebravo&show_icons=true&theme=tokyonight)
