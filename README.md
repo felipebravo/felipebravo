@@ -6,8 +6,12 @@
 
 ## Bem vindo(a) ao meu GitHub 👋
 
-![Felipe Bravo GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebravo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebravo&layout=compact)](https://github.com/felipebravo/github-readme-stats)
+<div align="left">
+    <a href="https://github.com/GuilhermeSchulz">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipebravo&theme=tokyonight"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebravo&theme=tokyonight&hide_border=false&&layout=compact"/>
+    </a>
+  </div>
 
 ## Tecnologias que eu uso no meu dia 💻
 
