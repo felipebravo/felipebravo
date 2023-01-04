@@ -32,6 +32,6 @@
   <img alt='node.js' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
 </div><br/>
 
-## Portfólio
+## Portfólio 📁
 
-<a href="https://portfolio-felipebravo.vercel.app/" target="_blank">📁</a>
+<a href="https://portfolio-felipebravo.vercel.app/" target="_blank">Link</a>
