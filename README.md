@@ -31,6 +31,8 @@
   <img alt='express.js' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
   <img alt='node.js' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img alt='typeorm' src='https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&=appveyor'>
+  <img alt='python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
+  <img alt='next.js' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
 </div><br/>
 
 ## Portfólio 📁
